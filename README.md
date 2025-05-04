@@ -1,3 +1,7 @@
+# Idioma
+
+🇪🇸 **Español** | [🇬🇧 English](README-en.md)
+
 # SAI - Automatizador de Muxeo MKV desde ASS
 
 Esta herramienta automatiza el proceso de crear archivos MKV utilizando `mkvmerge`. Lee un archivo de subtítulos `.ass` especialmente formateado que contiene no solo los subtítulos, sino también metadatos sobre los archivos de video, audio, fuentes, capítulos y el nombre de salida deseado.
